@@ -2,6 +2,10 @@
   "name": "ayu-owl",
   "displayName": "Ayu Owl",
   "publisher": "dermohamad",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mo-develop/ayu-owl"
+  },
   "description": "A theme based on the Ayu Mirage and Night Owl",
   "version": "0.4.0",
   "engines": {
